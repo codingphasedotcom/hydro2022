@@ -5,7 +5,7 @@ export default defineConfig({
     defaultCountryCode: 'US',
     defaultLanguageCode: 'EN',
     storeDomain: 'shop34preview.myshopify.com',
-    storefrontToken: 'd5ac0fbc2462748a33c8f4eeb16a82fa',
+    storefrontToken: 'd946da132b1e434a5b8497830142a48b',
     storefrontApiVersion: '2022-07',
   },
   session: CookieSessionStorage('__session', {
